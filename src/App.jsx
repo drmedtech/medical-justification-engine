@@ -548,11 +548,6 @@ export default App;
 - Click **"Continue with GitHub"**
 - Click **"Authorize Vercel"**
 
-### 4.2 Import Your Project
-- You'll see "Import Git Repository"
-- Find `medical-justification-engine` in the list
-- Click **"Import"**
-
 ### 4.3 Configure Project
 - **Project Name:** `medical-justification-engine` (should be pre-filled)
 - **Framework Preset:** Select **"Vite"**
@@ -577,6 +572,4 @@ After deployment completes, you'll see:
 - Click "Visit" to see your product
 
 ### 5.2 Share Your Link
-Your product is now accessible at:
-```
-https://medical-justification-engine.vercel.app
+export default App;
